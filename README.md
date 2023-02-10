@@ -1,7 +1,5 @@
 # CMPE282-Class-Assignment01
 
-I
-
 ## Use a language model to help your team write a program that does the following:
 
 1.Takes a text string as input
@@ -11,7 +9,6 @@ I
 Include tests showing all the sentiments and submit a word document with screenshots of the program operations and tests.
 Include a link to your source code on github, etc..
 Use any programming language you prefer
-II 
 
 ## Use a language model to help your team solve HackerRank Links to an external site.coding problems, in the language of your choice
 
